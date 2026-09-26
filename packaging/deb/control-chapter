@@ -1,0 +1,8 @@
+Package: %PKG%
+Version: %VERSION%
+Section: sound
+Priority: optional
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Description: English translation reading in the DarkKnox2 voice, book %BOOK% chapter %CHAPTER%
+ Per-verse English translation reading in the DarkKnox2 voice, book %BOOK% chapter %CHAPTER% only.
